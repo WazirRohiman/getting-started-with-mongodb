@@ -67,7 +67,7 @@ db.marks.aggregate([
             }
 }
 ])
-
+```
 The output format of the above command will look like this 
 
 ```
